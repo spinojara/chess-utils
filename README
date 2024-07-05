@@ -1,3 +1,11 @@
 chess-utils
 ===========
 A random collection of chess utilities.
+
+Install
+-------
+To install, run
+
+	$ pip install .
+
+in the root directory.
