@@ -1,0 +1,9 @@
+/*
+**/.*
+
+!.gitignore
+!README
+!COPYING
+!setup.py
+
+!bin
