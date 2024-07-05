@@ -7,6 +7,6 @@ setup(
         packages=[],
         author='Isak Ellmer',
         author_email='isak01@gmail.com',
-        description='Random collection of chess utilities.',
+        description='A random collection of chess utilities.',
         url='https://github.com/spinojara/chess-utils',
 )
